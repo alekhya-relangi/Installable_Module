@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Project
+Version: 1.0.0
+Summary: Module to read yaml and cfg files
+Home-page: UNKNOWN
+Author: Alekhya Relangi
+Author-email: alekhya.relangi@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: operating System :: OS Independent
+Requires-Python: >=3.9
+
+UNKNOWN
+
